@@ -13,7 +13,7 @@ A website where you can find your favourite photography courses.
 
  ## Admin Info:
  Email: abir@gmail.com
- Pass: Abir007!?
+ Pass: Abir07!?
 
 
 # Technology :
