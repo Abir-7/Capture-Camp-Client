@@ -13,5 +13,9 @@ A website where you can find your favourite photography courses.
 # Technology :
  -- Html, Css, tailwind Css, DaisyUI, React, JavaScript, Nodejs, ExpressJS
 
+ #Admin Info:
+ Email: abir@gmail.com
+ Pass: Abir007!?
+
 Live Site Link: https://capture-camp.web.app/
 
