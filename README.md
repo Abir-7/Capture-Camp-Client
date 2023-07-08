@@ -17,7 +17,7 @@ A website where you can find your favourite photography courses.
 
 
 # Technology :
- -- Html, Css, tailwind Css, DaisyUI, React, JavaScript, Nodejs, ExpressJS, MongoDb, Rest Apis
+ -- Html, Css, tailwind Css, DaisyUI, React, JavaScript, Nodejs, ExpressJS, MongoDb, Rest Api
 
 
 Live Site Link: https://capture-camp.web.app/
