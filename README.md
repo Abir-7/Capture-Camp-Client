@@ -4,6 +4,7 @@
 A website where you can find your favourite photography courses.
 ## Features
 
+* Three Type Dashboard (Admin, Instructor, Student)
 * Admin can make any user admin or instructor
 * Instructor can add class.
 * Admin can Approve or reject Class
