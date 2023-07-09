@@ -8,7 +8,7 @@ A website where you can find your favourite photography courses.
 * Admin can make any user admin or instructor
 * Instructor can add class.
 * Admin can Approve or reject Class
-* You Can Pay via Stripe Payment
+* Student Can Pay via Stripe Payment to enroll in a class
 * Mobile Responsive
 
 
